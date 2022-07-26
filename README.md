@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inclyc&show_icons=true&hide_title=false" />
 
-HIT Undergraduate, focus on Compilers / OS ~~/ Maybe ML~~. 
+HIT Undergraduate, focus on Compilers / OS.
 
 Former OIer and currently LLVM Developer.
 
