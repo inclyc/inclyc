@@ -6,7 +6,7 @@ HIT Undergraduate, focus on Compilers / OS ~~/ Maybe ML~~.
 
 Former OIer and currently LLVM Developer.
 
-## 💬 Worked language
+## 💬 Language
 
 - ✅  C / C++
 - ✅  Python
@@ -14,6 +14,7 @@ Former OIer and currently LLVM Developer.
 - ✅  LaTeX (writing)
 - ✅  Go
 - ✅  ~~Java~~ ?
+- ✅  ~~Make Lisp Great Again~~ ?
 - ✅  Assembly
 
 ## 🛠 Skills
