@@ -4,7 +4,7 @@
 
 HIT Undergraduate, focus on Compilers / OS.
 
-Former OIer and currently LLVM Developer.
+OIer (AFO).
 
 ## 💬 Language
 
