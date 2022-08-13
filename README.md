@@ -34,6 +34,9 @@ OIer (AFO).
 ```
 3BF9 D5D8 EF04 7016 A30A  8762 7463 B027 A9A8 92EE
 ```
+<details><summary><strong>public keyring</strong></summary>
+<p>
+
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -62,7 +65,13 @@ AQEHQI3UPTousWR25EtHku84z0eDrbtkxEBVcktyUOraRSyciPUEGBYIACYWIQQ7
 BBkWCAAdFiEEkNW29++sC9FFV58PKWw/7+qIq8UFAmL2gQ4ACgkQKWw/7+qIq8Uf
 igEAxcqYT1U31qy5fT6Gpg7nst9/faWMkXVQOpiZzXCgfKoA/AlPIc2hH4Cf/Yvk
 89cQLukkzMUCxOZy1SKbcyuevmMFlE8BAK8lxHab3QlXIszt/sT/lQJzv3foHNSl
-YETfdu5bWZoxAQCjM5AoaJk+huckPldgXbrlRLhBFYVyll4AvuFhOuILDw==
-=foOs
+YETfdu5bWZoxAQCjM5AoaJk+huckPldgXbrlRLhBFYVyll4AvuFhOuILD7g4BGL3
+bJYSCisGAQQBl1UBBQEBB0C42+XJivySCpjPC93lsl9zho1YIBoCnbdzMg4qILmF
+QQMBCAeIfgQYFggAJhYhBDv51djvBHAWowqHYnRjsCepqJLuBQJi92yWAhsMBQkB
+4TOAAAoJEHRjsCepqJLu00YBAL3Qjrta2G/S8PYgCRxE/dn8kvraRwYFd2z89ESA
+gi0ZAP9RWkOC7G82/tpatsZ+y1dSRFJYljeCMRO8RRxGyhzCCQ==
+=/5OZ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+</p>
+</details>
