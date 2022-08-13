@@ -25,9 +25,9 @@ OIer (AFO).
 
 ## 📮 How to reach me
 
-- Blog [here](https://www.inclyc.cn/)
-- Email [Follow Up Here](mailto:me@inclyc.cn)
-- Tg [inclyc](https://t.me/inclyc)
+- Blog [https://www.inclyc.cn/](https://www.inclyc.cn/)
+- Email [me@inclyc.cn](mailto:me@inclyc.cn)
+- Tg [@inclyc](https://t.me/inclyc)
 
 ## OpenPGP
 
