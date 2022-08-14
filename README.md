@@ -19,7 +19,7 @@ OIer (AFO).
 
 ## 🛠 Skills
 
-- ✅  Randomly concat characters and util they compile succesfully (with warnings)
+- ✅  Randomly concat characters and util they could be compiled succesfully (with warnings)
 - ✅  Mess up codes
 - ✅  rm -rf /
 
