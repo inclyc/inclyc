@@ -2,9 +2,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inclyc&show_icons=true&hide_title=false" />
 
-HIT Undergraduate, focus on Compilers / OS.
+HIT Undergraduate, focus on compilers.
 
 OIer (AFO).
+
+`Architecture`, `Parallel`, `Vectorizer`, `Semantic Analysis`.
 
 ## 💬 Language
 
