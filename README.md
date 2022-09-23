@@ -6,7 +6,7 @@ HIT Undergraduate, focus on compilers.
 
 OIer (AFO).
 
-`Architecture`, `Parallel`, `Vectorizer`, `Semantic Analysis`.
+Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 
 ## 💬 Language
 
