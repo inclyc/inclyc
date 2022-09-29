@@ -31,6 +31,11 @@ Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 - Email [me@inclyc.cn](mailto:me@inclyc.cn)
 - Telegram [@inclyc](https://t.me/inclyc)
 
+## Open Reports
+
+- [Machine Block Placement](https://github.com/inclyc/MachineBlockPlacement)
+- [Vectorizer & SIMD](https://github.com/inclyc/talk-vectorizer)
+
 ## OpenPGP
 
 ```
