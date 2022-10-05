@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-HIT Undergraduate, focus on compilers.
+HIT Undergraduate, focus on compilers @llvm.
 
 OIer (AFO).
 
