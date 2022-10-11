@@ -33,6 +33,7 @@ Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 
 - [Machine Block Placement](https://github.com/inclyc/MachineBlockPlacement)
 - [Vectorizer & SIMD](https://github.com/inclyc/talk-vectorizer)
+- [Clang IR & CIR - new MLIR based IR for clang](https://github.com/inclyc/talk-cir)
 
 ## OpenPGP
 
