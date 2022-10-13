@@ -28,6 +28,7 @@ Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 - Blog [https://inclyc.cn/](https://inclyc.cn/)
 - Email [me@inclyc.cn](mailto:me@inclyc.cn)
 - Telegram [@inclyc](https://t.me/inclyc)
+- My Friends & Community (zh-CN) on the [Mailing Lists](https://lists.inclyc.cn)
 
 ## Open Reports
 
