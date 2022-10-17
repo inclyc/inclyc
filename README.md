@@ -1,8 +1,6 @@
 # 👋 Hey!
 
-HIT Undergraduate, focus on compilers @llvm.
-
-OIer (AFO).
+Former OIer, Undergraduate, focus on compilers @llvm.
 
 Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 
