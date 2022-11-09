@@ -4,6 +4,9 @@ Former OIer, Undergraduate, focus on compilers @llvm.
 
 Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclyc&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)'
+
+
 ## 💬 Language
 
 - ✅  C / C++
