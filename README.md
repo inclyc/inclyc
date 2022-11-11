@@ -16,8 +16,6 @@ Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 - ✅  ~~Make Lisp Great Again~~ ?
 - ✅  Assembly
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclyc&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)'
-
 ## 🛠 Skills
 
 - ✅  Randomly concat characters and util they could be compiled succesfully (with warnings)
