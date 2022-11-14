@@ -1,28 +1,10 @@
-# 👋 Hey!
+# Hey!
 
 Former OIer, Undergraduate, focus on compilers @llvm.
 
 Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 
-
-## 💬 Language
-
-- ✅  C / C++
-- ✅  Python
-- ✅  Rust
-- ✅  LaTeX (writing)
-- ✅  Go
-- ✅  ~~Java~~ ?
-- ✅  ~~Make Lisp Great Again~~ ?
-- ✅  Assembly
-
-## 🛠 Skills
-
-- ✅  Randomly concat characters and util they could be compiled succesfully (with warnings)
-- ✅  Mess up codes
-- ✅  rm -rf /
-
-## 📮 How to reach me
+## How to reach me
 
 - Blog [https://inclyc.cn/](https://inclyc.cn/)
 - Email [me@inclyc.cn](mailto:me@inclyc.cn)
