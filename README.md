@@ -6,8 +6,8 @@ Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
 
 ## How to reach me
 
-- Blog [https://inclyc.cn/](https://inclyc.cn/)
-- Email [me@inclyc.cn](mailto:me@inclyc.cn)
+- Blog [https://lyc.dev/](https://lyc.dev/)
+- Email [i@lyc.dev](mailto:i@lyc.dev)
 - Telegram [@inclyc](https://t.me/inclyc)
 - My Friends & Community (zh-CN) on the [Mailing Lists](https://lists.inclyc.cn)
 
