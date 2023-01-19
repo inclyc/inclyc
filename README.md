@@ -10,7 +10,7 @@ LLVM Wiki at https://llvm.wiki
 
 - Blog [https://lyc.dev/](https://lyc.dev/)
 - Email [i@lyc.dev](mailto:i@lyc.dev)
-- Matrix [@inclyc:matrix.org](@inclyc:matrix.org)
+- Matrix [@inclyc:matrix.org](https://matrix.to/#/@inclyc:matrix.org)
 - Telegram [@inclyc](https://t.me/inclyc)
 
 ## Open Reports
