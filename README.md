@@ -18,3 +18,4 @@ LLVM Wiki at https://llvm.wiki
 - [Machine Block Placement](https://github.com/inclyc/MachineBlockPlacement)
 - [Vectorizer & SIMD](https://github.com/inclyc/talk-vectorizer)
 - [Clang IR & CIR - new MLIR based IR for clang](https://github.com/inclyc/talk-cir)
+- [Auto Vectorization Methods & Implementations for Modern Architecture](https://github.com/inclyc/auto-vec-for-modern)
