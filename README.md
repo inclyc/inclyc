@@ -2,10 +2,6 @@
 
 Former OIer, Undergraduate, focus on compilers @llvm.
 
-Keywords: **Architecture, Parallel, Vectorizer, Semantic Analysis.**
-
-LLVM Wiki at https://llvm.wiki
-
 ## How to reach me
 
 - Blog [https://lyc.dev/](https://lyc.dev/)
