@@ -1,8 +1,6 @@
 # Hey!
 
-Former OIer, Undergraduate, focus on compilers @llvm. Previously working on the open source RISC-V compiler backend, clang semantic analysis, scalar optimizations. Currently working on an auto-vectorization project for *** architecture (closed source, project leader).
-
-## How to reach me
+Former OIer, Undergraduate, focus on compilers @llvm. Previously working on the open source RISC-V compiler backend, clang semantic analysis, scalar optimizations. How to reach me
 
 - Blog [https://lyc.dev/](https://lyc.dev/)
 - Email [i@lyc.dev](mailto:i@lyc.dev)
