@@ -1,6 +1,28 @@
 # Hey!
 
-Former OIer, Undergraduate, focus on compilers @llvm. Previously working on the open source RISC-V compiler backend, clang semantic analysis, scalar optimizations. Currently working for an auto-vectorization backend for some architecture, in LLVM (closed source).
+## I am ...
+
+- Former OIer, Undergraduate, focus on compilers (research & engineering).
+- Computer Science (Architecture) @ Institute of Computing Technology, CAS
+
+Interests:
+
+- Compiler IR design and applications, include:
+  - Auto-Vectorization
+  - Static Analysis
+- Package Managers (graph theory), and ABI
+
+## Working
+
+Previously working on the open source RISC-V compiler backend, clang semantic analysis, scalar optimizations. 
+
+Currently working for an auto-vectorization backend for some architecture, in LLVM (closed source). 
+
+Also some experimental projects just played for fun, e.g.
+
+- Nix language compiler (JIT/AOT)
+- Nix language server
+
 
 ## How to reach me
 
