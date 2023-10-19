@@ -3,6 +3,7 @@
 ## I am ...
 
 - Former OIer, Undergraduate, focus on compilers (research & engineering).
+- Applied Chemistry @ Harbin Institute of Technology
 - Computer Science (Architecture) @ Institute of Computing Technology, CAS
 
 Interests:
