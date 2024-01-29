@@ -21,7 +21,6 @@ Currently working for an auto-vectorization backend for some architecture, in LL
 
 Also some experimental projects just played for fun, e.g.
 
-- Nix language compiler (JIT/AOT)
 - Nix language server
 
 
