@@ -17,7 +17,8 @@ Interests:
 
 Previously working on the open source RISC-V compiler backend, clang semantic analysis, scalar optimizations. 
 
-Currently working for an auto-vectorization backend for some architecture, in LLVM (closed source). 
+Currently, I'm contributing to an LLVM backend for SIMD instructions support.
+I have written nearly all the code for this project.
 
 Also some experimental projects just played for fun, e.g.
 
