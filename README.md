@@ -18,12 +18,6 @@ Interests:
 Previously working on the open source RISC-V compiler backend, clang semantic analysis, scalar optimizations. 
 
 Currently, I'm contributing to an LLVM backend for SIMD instructions support.
-I have written nearly all the code for this project.
-
-Also some experimental projects just played for fun, e.g.
-
-- Nix language server
-
 
 ## How to reach me
 
