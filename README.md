@@ -21,7 +21,5 @@ Currently, I'm contributing to an LLVM backend for SIMD instructions support.
 
 ## How to reach me
 
-- Blog [https://lyc.dev/](https://lyc.dev/)
-- Email [i@lyc.dev](mailto:i@lyc.dev)
 - Matrix [@inclyc:matrix.org](https://matrix.to/#/@inclyc:matrix.org)
 - Telegram [@inclyc](https://t.me/inclyc)
